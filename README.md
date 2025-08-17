@@ -48,6 +48,19 @@ oop-concepts-examples/
 ## 🚀 Getting Started
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/oop-concepts-examples.git
-cd oop-concepts-examples
+git clone https://github.com/nuwanthikaishani/oop-fundamentals-java
+cd oop-fundamentals-java
+
+### 2. Compile and Run
+```bash
+cd src/encapsulation
+javac EncapsulationDemo.java
+java EncapsulationDemo
+
+## 🎓 Who Is This For?
+✅ Students learning Java OOP for the first time
+✅ Developers preparing for coding interviews
+✅ Anyone who wants a quick refresher on OOP principles
+
+
 
