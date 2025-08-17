@@ -57,9 +57,9 @@ java EncapsulationDemo
 ```
 
 ## 🎓 Who Is This For?
-✅ Students learning Java OOP for the first time
-✅ Developers preparing for coding interviews
-✅ Anyone who wants a quick refresher on OOP principles
+- ✅ Students learning Java OOP for the first time
+- ✅ Developers preparing for coding interviews
+- ✅ Anyone who wants a quick refresher on OOP principles
 
 
 
