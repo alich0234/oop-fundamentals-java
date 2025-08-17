@@ -20,10 +20,8 @@ This repository is designed to help students, beginners, and interview candidate
 - ✅ Design Patterns (Singleton, Factory, Strategy, Observer)  
 
 ---
-
 ## 📂 Project Structure
 
-## 📂 Project Structure
 
 ```text
 oop-concepts-examples/
@@ -42,25 +40,27 @@ oop-concepts-examples/
 └── design-patterns/     # Singleton, Factory, Strategy, Observer
 
 
-
----
+```
 
 ## 🚀 Getting Started
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/nuwanthikaishani/oop-fundamentals-java
 cd oop-fundamentals-java
+```
 
 ### 2. Compile and Run
 ```bash
 cd src/encapsulation
 javac EncapsulationDemo.java
 java EncapsulationDemo
+```
 
 ## 🎓 Who Is This For?
 ✅ Students learning Java OOP for the first time
 ✅ Developers preparing for coding interviews
 ✅ Anyone who wants a quick refresher on OOP principles
+
 
 
 
