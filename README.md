@@ -1,4 +1,4 @@
-# 📘 OOP Concepts in Java – Example Codes  
+# 📘 OOP Concepts in Java – Example Codes 
 
 A collection of **beginner-to-advanced examples** that demonstrate the core principles of **Object-Oriented Programming (OOP)** using Java.  
 This repository is designed to help students, beginners, and interview candidates **understand, practice, and master OOP** with small, practical code snippets.  
@@ -58,7 +58,7 @@ java EncapsulationDemo
 
 ## 🎓 Who Is This For?
 - ✅ Students learning Java OOP for the first time
-- ✅ Developers preparing for coding interviews
+- ✅ QA Engineers preparing for coding interviews
 - ✅ Anyone who wants a quick refresher on OOP principles
 
 
